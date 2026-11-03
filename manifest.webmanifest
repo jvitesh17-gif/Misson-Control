@@ -1,0 +1,10 @@
+{
+  "name":"Mission Control JEE",
+  "short_name":"Mission Control",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#061322",
+  "theme_color":"#071426",
+  "description":"Personal JEE preparation command centre",
+  "icons":[]
+}
